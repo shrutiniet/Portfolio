@@ -1,9 +1,9 @@
 # shrutiniet.github.io
 
-PortFolio Link: https://sites.google.com/view/shrutisharma/home?authuser=0
+**PortFolio Link: https://sites.google.com/view/shrutisharma/home?authuser=0**
 
 
-SubLinks for different Section:
+**SubLinks for different Section:**
 About: https://sites.google.com/view/shrutisharma/about
 Achievements: https://sites.google.com/view/shruti-achievements/home
 Project Page: Work in progress
